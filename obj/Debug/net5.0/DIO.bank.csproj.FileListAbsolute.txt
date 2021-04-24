@@ -1,0 +1,16 @@
+D:\Documentos\LocalizaLabs\DIO.bank\bin\Debug\net5.0\DIO.bank.exe
+D:\Documentos\LocalizaLabs\DIO.bank\bin\Debug\net5.0\DIO.bank.deps.json
+D:\Documentos\LocalizaLabs\DIO.bank\bin\Debug\net5.0\DIO.bank.runtimeconfig.json
+D:\Documentos\LocalizaLabs\DIO.bank\bin\Debug\net5.0\DIO.bank.runtimeconfig.dev.json
+D:\Documentos\LocalizaLabs\DIO.bank\bin\Debug\net5.0\DIO.bank.dll
+D:\Documentos\LocalizaLabs\DIO.bank\bin\Debug\net5.0\ref\DIO.bank.dll
+D:\Documentos\LocalizaLabs\DIO.bank\bin\Debug\net5.0\DIO.bank.pdb
+D:\Documentos\LocalizaLabs\DIO.bank\obj\Debug\net5.0\DIO.bank.csprojAssemblyReference.cache
+D:\Documentos\LocalizaLabs\DIO.bank\obj\Debug\net5.0\DIO.bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\LocalizaLabs\DIO.bank\obj\Debug\net5.0\DIO.bank.AssemblyInfoInputs.cache
+D:\Documentos\LocalizaLabs\DIO.bank\obj\Debug\net5.0\DIO.bank.AssemblyInfo.cs
+D:\Documentos\LocalizaLabs\DIO.bank\obj\Debug\net5.0\DIO.bank.csproj.CoreCompileInputs.cache
+D:\Documentos\LocalizaLabs\DIO.bank\obj\Debug\net5.0\DIO.bank.dll
+D:\Documentos\LocalizaLabs\DIO.bank\obj\Debug\net5.0\ref\DIO.bank.dll
+D:\Documentos\LocalizaLabs\DIO.bank\obj\Debug\net5.0\DIO.bank.pdb
+D:\Documentos\LocalizaLabs\DIO.bank\obj\Debug\net5.0\DIO.bank.genruntimeconfig.cache

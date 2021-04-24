@@ -1,0 +1,2 @@
+Bruno;bruno;2600,2;200;PessoaFisica
+BrunoLTDA;ltda;2500;2000;PessoaJuridica
